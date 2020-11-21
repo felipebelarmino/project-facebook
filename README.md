@@ -3,4 +3,4 @@
 ---
 
 ## Link do projeto:
-  * `https://felipebelarmino.github.io/project-facebook`.
+  * https://felipebelarmino.github.io/project-facebook
